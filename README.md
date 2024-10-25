@@ -46,7 +46,7 @@ You can pull and run this project locally using Docker or by setting up the envi
     ```
     **or you can build the image yourself using the Dockerfile**
     ```bash
-    cd tsdr-yolo
+    cd traffic-sign-detection-recognition
     docker build -t depi-yolo .
     ```
 
@@ -61,8 +61,8 @@ You can pull and run this project locally using Docker or by setting up the envi
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Lebo2678/tsdr-yolo.git
-    cd tsdr-yolo
+    git clone https://github.com/Lebo2678/traffic-sign-detection-recognition.git
+    cd traffic-sign-detection-recognition
     ```
 
 2. **Install Required Libraries**:
