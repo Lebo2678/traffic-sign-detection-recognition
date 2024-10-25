@@ -1,5 +1,10 @@
 # Traffic Sign Detection and Recognition (TSDR) Project
 
+<video width="640" height="480" controls>
+  <source src="./media/WhatsApp%20Video%202024-10-25%20at%2019.07.31.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [test video](/media/WhatsApp%20Video%202024-10-25%20at%2019.07.31.mp4)
 
 ## Video Demo: https://youtu.be/n4YhIVxkOKM
