@@ -1,5 +1,8 @@
 # Traffic Sign Detection and Recognition (TSDR) Project
 
+[test video](/media/WhatsApp%20Video%202024-10-25%20at%2019.07.31.mp4)
+
+## Video Demo: https://youtu.be/n4YhIVxkOKM
 
 ## Overview
 
@@ -22,8 +25,8 @@ The dataset for traffic sign recognition includes 14 sign classes, such as stop 
 
 ## Findings
 
-![graphs](image.png)
-![conv matrix](image-1.png)
+![graphs](/media/image.png)
+![conv matrix](/media/image-1.png)
 
 The project achieved the following:
 
