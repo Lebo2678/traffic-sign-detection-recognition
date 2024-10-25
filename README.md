@@ -1,5 +1,7 @@
 # Traffic Sign Detection and Recognition (TSDR) Project
 
+<video controls src="WhatsApp Video 2024-10-25 at 19.07.31.mp4" title="Title"></video>
+
 ## Overview
 
 This project, part of the Digital Egypt Pioneers Initiative (DEPI), focuses on developing an AI-powered system for Traffic Sign Detection and Recognition (TSDR) using deep learning. The system leverages YOLO (You Only Look Once) object detection models to recognize traffic signs in real time, providing essential support for autonomous vehicles and driver assistance systems. This project also involved publishing a research paper, contributing to academic advancements in intelligent transportation.
@@ -20,6 +22,9 @@ The dataset for traffic sign recognition includes 14 sign classes, such as stop 
 - **Data Augmentation**: Techniques like rotation, scaling, and color adjustments were employed to improve model generalization across varied real-world conditions.
 
 ## Findings
+
+![graphs](image.png)
+![conv matrix](image-1.png)
 
 The project achieved the following:
 
